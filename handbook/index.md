@@ -4,18 +4,18 @@
 
 1. [Introduction to OptiVerse](#1-introduction-to-optiverse)
 2. [General Contributor Guidelines](#2-general-contributor-guidelines)
-3. Role-Specific Guidelines
-   3.1 Problem Domain Experts
-   3.2 Optimization Specialists
-   3.3 Data Scientists / Analysts
-   3.4 Software Developers
-   3.5 Documentation Writers
-   3.6 Project Coordinators
-   3.7 Mentors
-   3.8 Newcomers / Learners
-4. Collaboration and Communication
-5. Project Workflow
-6. Resources and Tools
+3. [Role-Specific Guidelines](#3-role-specific-guidelines)
+   - [Problem Domain Experts](#31-problem-domain-experts)
+   - [Optimization Specialists](#32-optimization-specialists)
+   - [Data Scientists / Analysts](#33-data-scientists--analysts)
+   - [Software Developers](#34-software-developers)
+   - [Documentation Writers](#35-documentation-writers)
+   - [Project Coordinators](#36-project-coordinators)
+   - [Mentors](#37-mentors)
+   - [Newcomers / Learners](#38-newcomers--learners)
+4. [Collaboration and Communication](#4-collaboration-and-communication)
+5. [Project Workflow](#5-project-workflow)
+6. [Resources and Tools](#6-resources-and-tools)
 
 ## 1. Introduction to OptiVerse
 
@@ -97,7 +97,6 @@ When communicating:
 - Share knowledge generously and ask questions freely.
 
 This handbook will serve as a comprehensive guide for all OptiVerse contributors, facilitating smooth collaboration, maintaining project quality, and supporting continuous learning and improvement within our community.
-
 
 ## 3. Role-Specific Guidelines
 
@@ -189,9 +188,6 @@ Key Responsibilities:
 - Create and update README files for all major project components.
 - Develop documentation templates to ensure consistency across the project.
 - Gather and incorporate user feedback to improve documentation quality and usability.
-
-
-
 
 ### 3.6 Project Coordinators
 
@@ -328,7 +324,7 @@ To support your contributions to OptiVerse, we provide a variety of resources an
 - Optimization Basics: "Introduction to Linear Optimization" by Bertsimas and Tsitsiklis
 - Python Programming: "Python for Data Analysis" by Wes McKinney
 - Machine Learning: "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron
-- https://optiverse.org/learning-path (community-curated resource list)
+- https://opti-verse.org/learning-path (community-curated resource list)
 
 ### Essential Tools and Libraries for Optimization in Python
 
